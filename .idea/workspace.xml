@@ -84,8 +84,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/proxy/proxy/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="225">
+              <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,17 +137,21 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>c</find>
-      <find>p</find>
       <find>proxu</find>
       <find>prox</find>
-      <find>proxy</find>
-      <find>proxy.</find>
       <find>proxy.s</find>
       <find>proxy.se</find>
       <find>proxy.set</find>
       <find>proxy.setti</find>
       <find>co</find>
       <find>core</find>
+      <find>p</find>
+      <find>pro</find>
+      <find>proxy</find>
+      <find>proxy.</find>
+      <find>proxy.u</find>
+      <find>proxy.ur</find>
+      <find>proxy.url</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -650,8 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proxy/proxy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="225">
+          <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding />
         </state>
       </provider>

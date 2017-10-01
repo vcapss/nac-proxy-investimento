@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'proxy.urls'
+ROOT_URLCONF = 'proxy.proxy.urls'
 AUTH_USER_MODEL = 'core.User'
 TEMPLATES = [
     {
