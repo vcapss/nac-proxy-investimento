@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'proxy.proxy',
-    'proxy.core'
+    'proxy',
+    'core'
 ]
 
 MIDDLEWARE = [
@@ -53,7 +53,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'proxy.proxy.urls'
+ROOT_URLCONF = 'proxy.urls'
 AUTH_USER_MODEL = 'core.User'
 TEMPLATES = [
     {

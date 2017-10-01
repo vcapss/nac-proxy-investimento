@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d65c5867-5a23-4f30-931b-10be7b1edfa8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy/manage.py" afterPath="$PROJECT_DIR$/proxy/manage.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy/proxy/settings.py" afterPath="$PROJECT_DIR$/proxy/proxy/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/proxy/proxy/wsgi.py" afterPath="$PROJECT_DIR$/proxy/proxy/wsgi.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,8 +87,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/proxy/proxy/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="161">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,21 +141,32 @@
     <findStrings>
       <find>c</find>
       <find>proxu</find>
-      <find>prox</find>
       <find>proxy.s</find>
       <find>proxy.se</find>
       <find>proxy.set</find>
       <find>proxy.setti</find>
       <find>co</find>
       <find>core</find>
-      <find>p</find>
-      <find>pro</find>
-      <find>proxy</find>
-      <find>proxy.</find>
       <find>proxy.u</find>
       <find>proxy.ur</find>
       <find>proxy.url</find>
+      <find>proxy.pr</find>
+      <find>p</find>
+      <find>pro</find>
+      <find>prox</find>
+      <find>proxy</find>
+      <find>proxy.</find>
+      <find>proxy.p</find>
+      <find>proxy.pro</find>
+      <find>proxy.prox</find>
+      <find>proxy.proxy</find>
+      <find>proxy.proxy.</find>
+      <find>ALLOW</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>proxy.</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
@@ -170,11 +184,11 @@
         <option value="$PROJECT_DIR$/proxy/core/models.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/runtime.txt" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/proxy/manage.py" />
         <option value="$PROJECT_DIR$/proxy/proxy/wsgi.py" />
         <option value="$PROJECT_DIR$/proxy/core/apps.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/proxy/proxy/settings.py" />
       </list>
     </option>
@@ -608,14 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proxy/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -652,10 +658,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/proxy/proxy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="161">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>

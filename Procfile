@@ -1,1 +1,1 @@
-web: gunicorn proxy.proxy.wsgi --log-file -
+web: gunicorn proxy.wsgi --log-file -
