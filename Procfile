@@ -1,1 +1,1 @@
-web: gunicorn nacProxy.wsgi --log-file -
+web: gunicorn nacProxy.wsgi:application --preload --workers 1
