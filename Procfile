@@ -1,1 +1,1 @@
-web: gunicorn proxy.wsgi:application --preload --workers 1
+web: gunicorn proxy.proxy.wsgi --log-file -
